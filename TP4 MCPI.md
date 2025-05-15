@@ -1,5 +1,5 @@
-# PROBLEME URGENT POUR LE TP4
+# PLANNING FAIT AVEC SUCCES POUR LE TP4
 
-Nous avons besoin de l'autorisation pour relier notre __planing__ au repository 
+[CLIQUEZ ICI POUR VISUALISER LE PLANNIG]:(https://github.com/users/felicienmukamba/projects/6/views/4)
 
 @kakusu243 / **JOHN KAKUSU ET JOSUE BIHANDO**
